@@ -1,0 +1,1387 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.25)  25 NOV 2021 17:01
+entering extended mode
+**./main.tex
+(main.tex
+LaTeX2e <2021-11-15>
+L3 programming layer <2021-11-22>
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count183
+\c@section=\count184
+\c@subsection=\count185
+\c@subsubsection=\count186
+\c@paragraph=\count187
+\c@subparagraph=\count188
+\c@figure=\count189
+\c@table=\count190
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/newtx\newtxtext.sty
+Package: newtxtext 2021/10/13 v1.658
+
+`newtxtext' v1.658, 2021/10/13 Text macros taking advantage of TeX-Gyre Termes 
+fonts (msharpe)
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/fontaxes\fontaxes.sty
+Package: fontaxes 2020/07/21 v1.0e Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \swshape on input line 35.
+LaTeX Info: Redefining \scshape on input line 37.
+LaTeX Info: Redefining \sscshape on input line 39.
+LaTeX Info: Redefining \ulcshape on input line 41.
+LaTeX Info: Redefining \textsw on input line 47.
+LaTeX Info: Redefining \textssc on input line 48.
+LaTeX Info: Redefining \textulc on input line 49.
+)
+\ntx@fs=\dimen139
+
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks16
+\XKV@tempa@toks=\toks17
+
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\keyval.tex))
+\XKV@depth=\count191
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.st
+y
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count192
+) (C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/xstring\xstring.sty
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/generic/xstring\xstring.tex
+\integerpart=\count193
+\decimalpart=\count194
+)
+Package: xstring 2021/07/21 v1.84 String manipulations (CT)
+) (C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\scalefnt.sty)
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+ntxtlf on input line
+ 112.
+
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/newtx\t1ntxtlf.fd
+File: t1ntxtlf.fd 2021/05/24 v1.1 font definition file for T1/ntx/tlf
+)
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 12.0pt on input line 112.
+)
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+LaTeX Font Info:    Changing ? sub-encoding to TS1/0 on input line 78.
+)
+\ntxt@cntz=\count195
+LaTeX Font Info:    Redeclaring math symbol \mathsterling on input line 325.
+)
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/newtx\newtxmath.sty
+Package: newtxmath 2021/10/21 v1.659
+
+`newtxmath' v1.659, 2021/10/21 Math macros based originally on txfonts (msharpe
+) (C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen140
+))
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen141
+)
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count196
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count197
+\leftroot@=\count198
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count199
+\DOTSCASE@=\count266
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen142
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count267
+\c@MaxMatrixCols=\count268
+\dotsspace@=\muskip16
+\c@parentequation=\count269
+\dspbrk@lvl=\count270
+\tag@help=\toks19
+\row@=\count271
+\column@=\count272
+\maxfields@=\count273
+\andhelp@=\toks20
+\eqnshift@=\dimen143
+\alignsep@=\dimen144
+\tagshift@=\dimen145
+\tagwidth@=\dimen146
+\totwidth@=\dimen147
+\lineht@=\dimen148
+\@envbody=\toks21
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+)
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/oberdiek\centernot.sty
+Package: centernot 2016/05/16 v1.4 Centers the not symbol horizontally (HO)
+)
+\tx@cntz=\count274
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/generic/binhex\binhex.tex)
+\tx@Isdigit=\count275
+\tx@IsAlNum=\count276
+\tx@tA=\toks23
+\tx@tB=\toks24
+\tx@su=\read2
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 362.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ntxtlf/m/n on input line 362.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ntxtlf/m/n on input line 362.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/ntxtlf/m/n --> OT1/ntxtlf/b/n on input line 363.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 371.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> T1/qhv/m/n on input line 371.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> T1/qhv/m/n on input line 371.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 372.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ntxtlf/m/it on input line 372.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ntxtlf/m/it on input line 372.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 373.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> T1/ntxtt/m/n on input line 373.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> T1/ntxtt/m/n on input line 373.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 375.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ntxtlf/b/n on input line 375.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ntxtlf/b/n on input line 375.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/ntxtlf/m/it --> OT1/ntxtlf/b/it on input line 376.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  T1/qhv/m/n --> T1/qhv/b/n on input line 377.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  T1/ntxtt/m/n --> T1/ntxtt/b/n on input line 378.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 479.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ntxmi/m/it on input line 479.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ntxmi/m/it on input line 479.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/ntxmi/m/it --> OML/ntxmi/b/it on input line 480.
+\symlettersA=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lettersA' in version `bold'
+(Font)                  U/ntxmia/m/it --> U/ntxmia/b/it on input line 535.
+Now handling font encoding LMS ...
+... no UTF-8 mapping file for font encoding LMS
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 556.
+LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 556.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> LMS/ntxsy/m/n on input line 556.
+LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 556.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> LMS/ntxsy/m/n on input line 556.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  LMS/ntxsy/m/n --> LMS/ntxsy/b/n on input line 557.
+\symAMSm=\mathgroup5
+LaTeX Font Info:    Overwriting symbol font `AMSm' in version `bold'
+(Font)                  U/ntxsym/m/n --> U/ntxsym/b/n on input line 582.
+\symsymbolsC=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `bold'
+(Font)                  U/ntxsyc/m/n --> U/ntxsyc/b/n on input line 603.
+Now handling font encoding LMX ...
+... no UTF-8 mapping file for font encoding LMX
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 616.
+LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 6
+16.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 616.
+LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 616
+.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 616.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  LMX/ntxexx/m/n --> LMX/ntxexx/b/n on input line 617.
+\symlargesymbolsTXA=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `largesymbolsTXA' in version `bold'
+
+(Font)                  U/ntxexa/m/n --> U/ntxexa/b/n on input line 631.
+\tx@sbptoks=\toks25
+LaTeX Font Info:    Redeclaring math delimiter \lfloor on input line 854.
+LaTeX Font Info:    Redeclaring math delimiter \rfloor on input line 855.
+LaTeX Font Info:    Redeclaring math delimiter \lceil on input line 856.
+LaTeX Font Info:    Redeclaring math delimiter \rceil on input line 857.
+LaTeX Font Info:    Redeclaring math delimiter \lbrace on input line 858.
+LaTeX Font Info:    Redeclaring math delimiter \rbrace on input line 859.
+LaTeX Font Info:    Redeclaring math delimiter \langle on input line 860.
+LaTeX Font Info:    Redeclaring math delimiter \rangle on input line 862.
+LaTeX Font Info:    Redeclaring math delimiter \arrowvert on input line 866.
+LaTeX Font Info:    Redeclaring math delimiter \vert on input line 867.
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 913.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 938.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 939.
+LaTeX Font Info:    Redeclaring math accent \vec on input line 2008.
+LaTeX Info: Redefining \Bbbk on input line 2798.
+LaTeX Info: Redefining \not on input line 2947.
+)
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks26
+\inpenc@posthook=\toks27
+)
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup8
+\symAMSb=\mathgroup9
+LaTeX Font Info:    Redeclaring math delimiter \ulcorner on input line 74.
+LaTeX Font Info:    Redeclaring math delimiter \urcorner on input line 75.
+LaTeX Font Info:    Redeclaring math delimiter \llcorner on input line 76.
+LaTeX Font Info:    Redeclaring math delimiter \lrcorner on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \square on input line 141.
+LaTeX Font Info:    Redeclaring math symbol \lozenge on input line 142.
+)
+LaTeX Font Info:    Redeclaring math symbol \boxdot on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \boxplus on input line 45.
+LaTeX Font Info:    Redeclaring math symbol \boxtimes on input line 46.
+LaTeX Font Info:    Redeclaring math symbol \blacksquare on input line 48.
+LaTeX Font Info:    Redeclaring math symbol \centerdot on input line 49.
+LaTeX Font Info:    Redeclaring math symbol \blacklozenge on input line 51.
+LaTeX Font Info:    Redeclaring math symbol \circlearrowright on input line 52.
+
+LaTeX Font Info:    Redeclaring math symbol \circlearrowleft on input line 53.
+LaTeX Font Info:    Redeclaring math symbol \leftrightharpoons on input line 56
+.
+LaTeX Font Info:    Redeclaring math symbol \boxminus on input line 57.
+LaTeX Font Info:    Redeclaring math symbol \Vdash on input line 58.
+LaTeX Font Info:    Redeclaring math symbol \Vvdash on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \vDash on input line 60.
+LaTeX Font Info:    Redeclaring math symbol \twoheadrightarrow on input line 61
+.
+LaTeX Font Info:    Redeclaring math symbol \twoheadleftarrow on input line 62.
+
+LaTeX Font Info:    Redeclaring math symbol \leftleftarrows on input line 63.
+LaTeX Font Info:    Redeclaring math symbol \rightrightarrows on input line 64.
+
+LaTeX Font Info:    Redeclaring math symbol \upuparrows on input line 65.
+LaTeX Font Info:    Redeclaring math symbol \downdownarrows on input line 66.
+LaTeX Font Info:    Redeclaring math symbol \upharpoonright on input line 67.
+LaTeX Font Info:    Redeclaring math symbol \downharpoonright on input line 69.
+
+LaTeX Font Info:    Redeclaring math symbol \upharpoonleft on input line 70.
+LaTeX Font Info:    Redeclaring math symbol \downharpoonleft on input line 71.
+LaTeX Font Info:    Redeclaring math symbol \rightarrowtail on input line 72.
+LaTeX Font Info:    Redeclaring math symbol \leftarrowtail on input line 73.
+LaTeX Font Info:    Redeclaring math symbol \leftrightarrows on input line 74.
+LaTeX Font Info:    Redeclaring math symbol \rightleftarrows on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Lsh on input line 76.
+LaTeX Font Info:    Redeclaring math symbol \Rsh on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \leftrightsquigarrow on input line 
+79.
+LaTeX Font Info:    Redeclaring math symbol \looparrowleft on input line 80.
+LaTeX Font Info:    Redeclaring math symbol \looparrowright on input line 81.
+LaTeX Font Info:    Redeclaring math symbol \circeq on input line 82.
+LaTeX Font Info:    Redeclaring math symbol \succsim on input line 83.
+LaTeX Font Info:    Redeclaring math symbol \gtrsim on input line 84.
+LaTeX Font Info:    Redeclaring math symbol \gtrapprox on input line 85.
+LaTeX Font Info:    Redeclaring math symbol \multimap on input line 86.
+LaTeX Font Info:    Redeclaring math symbol \therefore on input line 87.
+LaTeX Font Info:    Redeclaring math symbol \because on input line 88.
+LaTeX Font Info:    Redeclaring math symbol \doteqdot on input line 89.
+LaTeX Font Info:    Redeclaring math symbol \triangleq on input line 91.
+LaTeX Font Info:    Redeclaring math symbol \precsim on input line 92.
+LaTeX Font Info:    Redeclaring math symbol \lesssim on input line 93.
+LaTeX Font Info:    Redeclaring math symbol \lessapprox on input line 94.
+LaTeX Font Info:    Redeclaring math symbol \eqslantless on input line 95.
+LaTeX Font Info:    Redeclaring math symbol \eqslantgtr on input line 96.
+LaTeX Font Info:    Redeclaring math symbol \curlyeqprec on input line 97.
+LaTeX Font Info:    Redeclaring math symbol \curlyeqsucc on input line 98.
+LaTeX Font Info:    Redeclaring math symbol \preccurlyeq on input line 99.
+LaTeX Font Info:    Redeclaring math symbol \leqq on input line 100.
+LaTeX Font Info:    Redeclaring math symbol \leqslant on input line 101.
+LaTeX Font Info:    Redeclaring math symbol \lessgtr on input line 102.
+LaTeX Font Info:    Redeclaring math symbol \backprime on input line 103.
+LaTeX Font Info:    Redeclaring math symbol \risingdotseq on input line 104.
+LaTeX Font Info:    Redeclaring math symbol \fallingdotseq on input line 105.
+LaTeX Font Info:    Redeclaring math symbol \succcurlyeq on input line 106.
+LaTeX Font Info:    Redeclaring math symbol \geqq on input line 107.
+LaTeX Font Info:    Redeclaring math symbol \geqslant on input line 108.
+LaTeX Font Info:    Redeclaring math symbol \gtrless on input line 109.
+LaTeX Font Info:    Redeclaring math symbol \bigstar on input line 117.
+LaTeX Font Info:    Redeclaring math symbol \between on input line 118.
+LaTeX Font Info:    Redeclaring math symbol \blacktriangledown on input line 11
+9.
+LaTeX Font Info:    Redeclaring math symbol \blacktriangleright on input line 1
+20.
+LaTeX Font Info:    Redeclaring math symbol \blacktriangleleft on input line 12
+1.
+LaTeX Font Info:    Redeclaring math symbol \vartriangle on input line 122.
+LaTeX Font Info:    Redeclaring math symbol \blacktriangle on input line 123.
+LaTeX Font Info:    Redeclaring math symbol \triangledown on input line 124.
+LaTeX Font Info:    Redeclaring math symbol \eqcirc on input line 125.
+LaTeX Font Info:    Redeclaring math symbol \lesseqgtr on input line 126.
+LaTeX Font Info:    Redeclaring math symbol \gtreqless on input line 127.
+LaTeX Font Info:    Redeclaring math symbol \lesseqqgtr on input line 128.
+LaTeX Font Info:    Redeclaring math symbol \gtreqqless on input line 129.
+LaTeX Font Info:    Redeclaring math symbol \Rrightarrow on input line 130.
+LaTeX Font Info:    Redeclaring math symbol \Lleftarrow on input line 131.
+LaTeX Font Info:    Redeclaring math symbol \veebar on input line 132.
+LaTeX Font Info:    Redeclaring math symbol \barwedge on input line 133.
+LaTeX Font Info:    Redeclaring math symbol \doublebarwedge on input line 134.
+LaTeX Font Info:    Redeclaring math symbol \measuredangle on input line 137.
+LaTeX Font Info:    Redeclaring math symbol \sphericalangle on input line 138.
+LaTeX Font Info:    Redeclaring math symbol \varpropto on input line 139.
+LaTeX Font Info:    Redeclaring math symbol \smallsmile on input line 140.
+LaTeX Font Info:    Redeclaring math symbol \smallfrown on input line 141.
+LaTeX Font Info:    Redeclaring math symbol \Subset on input line 142.
+LaTeX Font Info:    Redeclaring math symbol \Supset on input line 143.
+LaTeX Font Info:    Redeclaring math symbol \Cup on input line 144.
+LaTeX Font Info:    Redeclaring math symbol \Cap on input line 146.
+LaTeX Font Info:    Redeclaring math symbol \curlywedge on input line 148.
+LaTeX Font Info:    Redeclaring math symbol \curlyvee on input line 149.
+LaTeX Font Info:    Redeclaring math symbol \leftthreetimes on input line 150.
+LaTeX Font Info:    Redeclaring math symbol \rightthreetimes on input line 151.
+
+LaTeX Font Info:    Redeclaring math symbol \subseteqq on input line 152.
+LaTeX Font Info:    Redeclaring math symbol \supseteqq on input line 153.
+LaTeX Font Info:    Redeclaring math symbol \bumpeq on input line 154.
+LaTeX Font Info:    Redeclaring math symbol \Bumpeq on input line 155.
+LaTeX Font Info:    Redeclaring math symbol \lll on input line 156.
+LaTeX Font Info:    Redeclaring math symbol \ggg on input line 158.
+LaTeX Font Info:    Redeclaring math symbol \circledS on input line 160.
+LaTeX Font Info:    Redeclaring math symbol \pitchfork on input line 161.
+LaTeX Font Info:    Redeclaring math symbol \dotplus on input line 162.
+LaTeX Font Info:    Redeclaring math symbol \backsim on input line 163.
+LaTeX Font Info:    Redeclaring math symbol \backsimeq on input line 164.
+LaTeX Font Info:    Redeclaring math symbol \complement on input line 165.
+LaTeX Font Info:    Redeclaring math symbol \intercal on input line 166.
+LaTeX Font Info:    Redeclaring math symbol \circledcirc on input line 167.
+LaTeX Font Info:    Redeclaring math symbol \circledast on input line 168.
+LaTeX Font Info:    Redeclaring math symbol \circleddash on input line 169.
+LaTeX Font Info:    Redeclaring math symbol \lvertneqq on input line 171.
+LaTeX Font Info:    Redeclaring math symbol \gvertneqq on input line 172.
+LaTeX Font Info:    Redeclaring math symbol \nleq on input line 173.
+LaTeX Font Info:    Redeclaring math symbol \ngeq on input line 174.
+LaTeX Font Info:    Redeclaring math symbol \nless on input line 175.
+LaTeX Font Info:    Redeclaring math symbol \ngtr on input line 176.
+LaTeX Font Info:    Redeclaring math symbol \nprec on input line 177.
+LaTeX Font Info:    Redeclaring math symbol \nsucc on input line 178.
+LaTeX Font Info:    Redeclaring math symbol \lneqq on input line 179.
+LaTeX Font Info:    Redeclaring math symbol \gneqq on input line 180.
+LaTeX Font Info:    Redeclaring math symbol \nleqslant on input line 181.
+LaTeX Font Info:    Redeclaring math symbol \ngeqslant on input line 182.
+LaTeX Font Info:    Redeclaring math symbol \lneq on input line 183.
+LaTeX Font Info:    Redeclaring math symbol \gneq on input line 184.
+LaTeX Font Info:    Redeclaring math symbol \npreceq on input line 185.
+LaTeX Font Info:    Redeclaring math symbol \nsucceq on input line 186.
+LaTeX Font Info:    Redeclaring math symbol \precnsim on input line 187.
+LaTeX Font Info:    Redeclaring math symbol \succnsim on input line 188.
+LaTeX Font Info:    Redeclaring math symbol \lnsim on input line 189.
+LaTeX Font Info:    Redeclaring math symbol \gnsim on input line 190.
+LaTeX Font Info:    Redeclaring math symbol \nleqq on input line 191.
+LaTeX Font Info:    Redeclaring math symbol \ngeqq on input line 192.
+LaTeX Font Info:    Redeclaring math symbol \precneqq on input line 193.
+LaTeX Font Info:    Redeclaring math symbol \succneqq on input line 194.
+LaTeX Font Info:    Redeclaring math symbol \precnapprox on input line 195.
+LaTeX Font Info:    Redeclaring math symbol \succnapprox on input line 196.
+LaTeX Font Info:    Redeclaring math symbol \lnapprox on input line 197.
+LaTeX Font Info:    Redeclaring math symbol \gnapprox on input line 198.
+LaTeX Font Info:    Redeclaring math symbol \nsim on input line 199.
+LaTeX Font Info:    Redeclaring math symbol \ncong on input line 200.
+LaTeX Font Info:    Redeclaring math symbol \diagup on input line 201.
+LaTeX Font Info:    Redeclaring math symbol \diagdown on input line 202.
+LaTeX Font Info:    Redeclaring math symbol \varsubsetneq on input line 203.
+LaTeX Font Info:    Redeclaring math symbol \varsupsetneq on input line 204.
+LaTeX Font Info:    Redeclaring math symbol \nsubseteqq on input line 205.
+LaTeX Font Info:    Redeclaring math symbol \nsupseteqq on input line 206.
+LaTeX Font Info:    Redeclaring math symbol \subsetneqq on input line 207.
+LaTeX Font Info:    Redeclaring math symbol \supsetneqq on input line 208.
+LaTeX Font Info:    Redeclaring math symbol \varsubsetneqq on input line 209.
+LaTeX Font Info:    Redeclaring math symbol \varsupsetneqq on input line 210.
+LaTeX Font Info:    Redeclaring math symbol \subsetneq on input line 211.
+LaTeX Font Info:    Redeclaring math symbol \supsetneq on input line 212.
+LaTeX Font Info:    Redeclaring math symbol \nsubseteq on input line 213.
+LaTeX Font Info:    Redeclaring math symbol \nsupseteq on input line 214.
+LaTeX Font Info:    Redeclaring math symbol \nparallel on input line 215.
+LaTeX Font Info:    Redeclaring math symbol \nmid on input line 216.
+LaTeX Font Info:    Redeclaring math symbol \nshortmid on input line 217.
+LaTeX Font Info:    Redeclaring math symbol \nshortparallel on input line 218.
+LaTeX Font Info:    Redeclaring math symbol \nvdash on input line 219.
+LaTeX Font Info:    Redeclaring math symbol \nVdash on input line 220.
+LaTeX Font Info:    Redeclaring math symbol \nvDash on input line 221.
+LaTeX Font Info:    Redeclaring math symbol \nVDash on input line 222.
+LaTeX Font Info:    Redeclaring math symbol \ntrianglerighteq on input line 223
+.
+LaTeX Font Info:    Redeclaring math symbol \ntrianglelefteq on input line 224.
+
+LaTeX Font Info:    Redeclaring math symbol \ntriangleleft on input line 225.
+LaTeX Font Info:    Redeclaring math symbol \ntriangleright on input line 226.
+LaTeX Font Info:    Redeclaring math symbol \nleftarrow on input line 227.
+LaTeX Font Info:    Redeclaring math symbol \nrightarrow on input line 228.
+LaTeX Font Info:    Redeclaring math symbol \nLeftarrow on input line 229.
+LaTeX Font Info:    Redeclaring math symbol \nRightarrow on input line 230.
+LaTeX Font Info:    Redeclaring math symbol \nLeftrightarrow on input line 231.
+
+LaTeX Font Info:    Redeclaring math symbol \nleftrightarrow on input line 232.
+
+LaTeX Font Info:    Redeclaring math symbol \divideontimes on input line 233.
+LaTeX Font Info:    Redeclaring math symbol \varnothing on input line 234.
+LaTeX Font Info:    Redeclaring math symbol \nexists on input line 235.
+LaTeX Font Info:    Redeclaring math symbol \Finv on input line 236.
+LaTeX Font Info:    Redeclaring math symbol \Game on input line 237.
+LaTeX Font Info:    Redeclaring math symbol \eth on input line 240.
+LaTeX Font Info:    Redeclaring math symbol \eqsim on input line 241.
+LaTeX Font Info:    Redeclaring math symbol \beth on input line 242.
+LaTeX Font Info:    Redeclaring math symbol \gimel on input line 243.
+LaTeX Font Info:    Redeclaring math symbol \daleth on input line 244.
+LaTeX Font Info:    Redeclaring math symbol \lessdot on input line 245.
+LaTeX Font Info:    Redeclaring math symbol \gtrdot on input line 246.
+LaTeX Font Info:    Redeclaring math symbol \ltimes on input line 247.
+LaTeX Font Info:    Redeclaring math symbol \rtimes on input line 248.
+LaTeX Font Info:    Redeclaring math symbol \shortmid on input line 249.
+LaTeX Font Info:    Redeclaring math symbol \shortparallel on input line 250.
+LaTeX Font Info:    Redeclaring math symbol \smallsetminus on input line 251.
+LaTeX Font Info:    Redeclaring math symbol \thicksim on input line 252.
+LaTeX Font Info:    Redeclaring math symbol \thickapprox on input line 253.
+LaTeX Font Info:    Redeclaring math symbol \approxeq on input line 254.
+LaTeX Font Info:    Redeclaring math symbol \succapprox on input line 255.
+LaTeX Font Info:    Redeclaring math symbol \precapprox on input line 256.
+LaTeX Font Info:    Redeclaring math symbol \curvearrowleft on input line 257.
+LaTeX Font Info:    Redeclaring math symbol \curvearrowright on input line 258.
+
+LaTeX Font Info:    Redeclaring math symbol \digamma on input line 259.
+LaTeX Font Info:    Redeclaring math symbol \varkappa on input line 260.
+
+
+! LaTeX Error: Command `\Bbbk' already defined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.261 ...ol{\Bbbk}           {\mathord}{AMSb}{"7C}
+                                                  
+? 
+LaTeX Font Info:    Redeclaring math symbol \hslash on input line 262.
+LaTeX Font Info:    Redeclaring math symbol \backepsilon on input line 265.
+)
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mathtools.sty
+Package: mathtools 2021/04/12 v1.27 mathematical typesetting tools
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count277
+\calc@Bcount=\count278
+\calc@Adimen=\dimen149
+\calc@Bdimen=\dimen150
+\calc@Askip=\skip52
+\calc@Bskip=\skip53
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count279
+\calc@Cskip=\skip54
+)
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mhsetup.sty
+Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
+\g_MT_multlinerow_int=\count280
+\l_MT_multwidth_dim=\dimen151
+\origjot=\skip55
+\l_MT_shortvdotswithinadjustabove_dim=\dimen152
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen153
+\l_MT_above_intertext_sep=\dimen154
+\l_MT_below_intertext_sep=\dimen155
+\l_MT_above_shortintertext_sep=\dimen156
+\l_MT_below_shortintertext_sep=\dimen157
+\xmathstrut@box=\box52
+\xmathstrut@dim=\dimen158
+) (C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/was\gensymb.sty
+Package: gensymb 2003/07/02 v1.0 (WaS)
+)
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen159
+\captionmargin@=\dimen160
+\captionwidth=\dimen161
+\caption@tempdima=\dimen162
+\caption@indent=\dimen163
+\caption@parindent=\dimen164
+\caption@hangindent=\dimen165
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count281
+\c@continuedfloat=\count282
+)
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+\c@subfigure=\count283
+\c@subtable=\count284
+) (C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.s
+ty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
+.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen166
+\Hy@linkcounter=\count285
+\Hy@pagecounter=\count286
+ (C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref-langp
+atches.def
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
+nguages
+)
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count287
+ (C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count288
+
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen167
+
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count289
+\Field@Width=\dimen168
+\Fld@charsize=\dimen169
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring OFF on input line 6096.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
+
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count290
+\c@Item=\count291
+\c@Hfootnote=\count292
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
+
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count293
+\c@bookmark@seq@number=\count294
+
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip56
+)
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/xurl\xurl.sty
+Package: xurl 2020/12/30 v 0.09a modify URL breaks
+)
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+Package: biblatex 2020/12/31 v3.16 programmable bibliographies (PK/MW)
+
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count295
+
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+\c@tabx@nest=\count296
+\c@listtotal=\count297
+\c@listcount=\count298
+\c@liststart=\count299
+\c@liststop=\count300
+\c@citecount=\count301
+\c@citetotal=\count302
+\c@multicitecount=\count303
+\c@multicitetotal=\count304
+\c@instcount=\count305
+\c@maxnames=\count306
+\c@minnames=\count307
+\c@maxitems=\count308
+\c@minitems=\count309
+\c@citecounter=\count310
+\c@maxcitecounter=\count311
+\c@savedcitecounter=\count312
+\c@uniquelist=\count313
+\c@uniquename=\count314
+\c@refsection=\count315
+\c@refsegment=\count316
+\c@maxextratitle=\count317
+\c@maxextratitleyear=\count318
+\c@maxextraname=\count319
+\c@maxextradate=\count320
+\c@maxextraalpha=\count321
+\c@abbrvpenalty=\count322
+\c@highnamepenalty=\count323
+\c@lownamepenalty=\count324
+\c@maxparens=\count325
+\c@parenlevel=\count326
+\blx@tempcnta=\count327
+\blx@tempcntb=\count328
+\blx@tempcntc=\count329
+\blx@maxsection=\count330
+\blx@maxsegment@0=\count331
+\blx@notetype=\count332
+\blx@parenlevel@text=\count333
+\blx@parenlevel@foot=\count334
+\blx@sectionciteorder@0=\count335
+\blx@entrysetcounter=\count336
+\blx@biblioinstance=\count337
+\labelnumberwidth=\skip57
+\labelalphawidth=\skip58
+\biblabelsep=\skip59
+\bibitemsep=\skip60
+\bibnamesep=\skip61
+\bibinitsep=\skip62
+\bibparsep=\skip63
+\bibhang=\skip64
+\blx@bcfin=\read3
+\blx@bcfout=\write3
+\blx@langwohyphens=\language79
+\c@mincomprange=\count338
+\c@maxcomprange=\count339
+\c@mincompwidth=\count340
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
+File: blx-dm.def 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'ieee.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count341
+\c@savedafterword=\count342
+\c@annotator=\count343
+\c@savedannotator=\count344
+\c@author=\count345
+\c@savedauthor=\count346
+\c@bookauthor=\count347
+\c@savedbookauthor=\count348
+\c@commentator=\count349
+\c@savedcommentator=\count350
+\c@editor=\count351
+\c@savededitor=\count352
+\c@editora=\count353
+\c@savededitora=\count354
+\c@editorb=\count355
+\c@savededitorb=\count356
+\c@editorc=\count357
+\c@savededitorc=\count358
+\c@foreword=\count359
+\c@savedforeword=\count360
+\c@holder=\count361
+\c@savedholder=\count362
+\c@introduction=\count363
+\c@savedintroduction=\count364
+\c@namea=\count365
+\c@savednamea=\count366
+\c@nameb=\count367
+\c@savednameb=\count368
+\c@namec=\count369
+\c@savednamec=\count370
+\c@translator=\count371
+\c@savedtranslator=\count372
+\c@shortauthor=\count373
+\c@savedshortauthor=\count374
+\c@shorteditor=\count375
+\c@savedshorteditor=\count376
+\c@labelname=\count377
+\c@savedlabelname=\count378
+\c@institution=\count379
+\c@savedinstitution=\count380
+\c@lista=\count381
+\c@savedlista=\count382
+\c@listb=\count383
+\c@savedlistb=\count384
+\c@listc=\count385
+\c@savedlistc=\count386
+\c@listd=\count387
+\c@savedlistd=\count388
+\c@liste=\count389
+\c@savedliste=\count390
+\c@listf=\count391
+\c@savedlistf=\count392
+\c@location=\count393
+\c@savedlocation=\count394
+\c@organization=\count395
+\c@savedorganization=\count396
+\c@origlocation=\count397
+\c@savedoriglocation=\count398
+\c@origpublisher=\count399
+\c@savedorigpublisher=\count400
+\c@publisher=\count401
+\c@savedpublisher=\count402
+\c@language=\count403
+\c@savedlanguage=\count404
+\c@origlanguage=\count405
+\c@savedoriglanguage=\count406
+\c@pageref=\count407
+\c@savedpageref=\count408
+\shorthandwidth=\skip65
+\shortjournalwidth=\skip66
+\shortserieswidth=\skip67
+\shorttitlewidth=\skip68
+\shortauthorwidth=\skip69
+\shorteditorwidth=\skip70
+\locallabelnumberwidth=\skip71
+\locallabelalphawidth=\skip72
+\localshorthandwidth=\skip73
+\localshortjournalwidth=\skip74
+\localshortserieswidth=\skip75
+\localshorttitlewidth=\skip76
+\localshortauthorwidth=\skip77
+\localshorteditorwidth=\skip78
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
+File: blx-compat.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
+File: biblatex.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+\c@textcitecount=\count409
+\c@textcitetotal=\count410
+\c@textcitemaxnames=\count411
+\c@biburlbigbreakpenalty=\count412
+\c@biburlbreakpenalty=\count413
+\c@biburlnumpenalty=\count414
+\c@biburlucpenalty=\count415
+\c@biburllcpenalty=\count416
+\biburlbigskip=\muskip18
+\biburlnumskip=\muskip19
+\biburlucskip=\muskip20
+\biburllcskip=\muskip21
+\c@smartand=\count417
+)
+Package biblatex Info: Trying to load bibliography style 'ieee'...
+Package biblatex Info: ... file 'ieee.bbx' found.
+
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-ieee\ieee.bbx
+File: ieee.bbx 2021/03/25 v1.3e biblatex bibliography style
+Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.bbx' found.
+
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\numeric-co
+mp.bbx
+File: numeric-comp.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\numeric.bb
+x
+File: numeric.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.b
+bx
+File: standard.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count418
+\c@bbx:relatedtotal=\count419
+))))
+Package biblatex Info: Trying to load citation style 'ieee'...
+Package biblatex Info: ... file 'ieee.cbx' found.
+
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-ieee\ieee.cbx
+File: ieee.cbx 2021/03/25 v1.3e biblatex citation style
+Package biblatex Info: Trying to load citation style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.cbx' found.
+
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\numeric-co
+mp.cbx
+File: numeric-comp.cbx 2020/12/31 v3.16 biblatex citation style (PK/MW)
+\c@cbx@tempcnta=\count420
+\c@cbx@tempcntb=\count421
+\c@cbx@tempcntc=\count422
+\c@cbx@tempcntd=\count423
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\cites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
+File: biblatex.cfg 
+)) (C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.st
+y
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count424
+\Gm@cntv=\count425
+\c@Gm@tempcnt=\count426
+\Gm@bindingoffset=\dimen170
+\Gm@wd@mp=\dimen171
+\Gm@odd@mp=\dimen172
+\Gm@even@mp=\dimen173
+\Gm@layoutwidth=\dimen174
+\Gm@layoutheight=\dimen175
+\Gm@layouthoffset=\dimen176
+\Gm@layoutvoffset=\dimen177
+\Gm@dimlist=\toks28
+
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+\@quotelevel=\count427
+\@quotereset=\count428
+
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count429
+\l__pdf_internal_box=\box53
+) (main.aux
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sub2' multiply defined.
+
+
+LaTeX Warning: Label `fig:test' multiply defined.
+
+)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 25.
+LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line
+ 25.
+ (C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/newtx\omlntxmi.fd
+File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
+)
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 25.
+LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 
+25.
+
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxexa.fd
+File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
+)
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 25.
+LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line
+ 25.
+
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmsntxsy.fd
+File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
+)
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 25.
+LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input lin
+e 25.
+
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmxntxexx.fd
+File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
+)
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+\c@mv@tabular=\count430
+\c@mv@boldtabular=\count431
+
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count432
+\scratchdimen=\dimen178
+\scratchbox=\box54
+\nofMPsegments=\count433
+\nofMParguments=\count434
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count435
+\MPscratchDim=\dimen179
+\MPnumerator=\count436
+\makeMPintoPDFobject=\count437
+\everyMPtoPDFconversion=\toks30
+)))
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+\Gin@req@height=\dimen180
+\Gin@req@width=\dimen181
+)
+\symgns@font=\mathgroup10
+LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
+(Font)                  TS1/ntxtlf/m/n --> TS1/ntxtlf/b/n on input line 25.
+Package gensymb Info: Math companion symbols declared on input line 25.
+LaTeX Info: Redefining \degree on input line 25.
+LaTeX Info: Redefining \celsius on input line 25.
+Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
+erthousand on input line 25.
+LaTeX Info: Redefining \ohm on input line 25.
+Package gensymb Info: Using \textohm for \ohm on input line 25.
+Package gensymb Info: Using \textmu for \micro on input line 25.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package hyperref Info: Link coloring OFF on input line 25.
+
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count438
+)
+LaTeX Info: Redefining \ref on input line 25.
+LaTeX Info: Redefining \pageref on input line 25.
+LaTeX Info: Redefining \nameref on input line 25.
+ (main.out) (main.out)
+\@outlinefile=\write4
+\openout4 = `main.out'.
+
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lb
+x
+File: english.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+Package biblatex Info: Document encoding is UTF8 ....
+ (C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2021-11-22 L3 programming layer (loader) 
+)
+Package biblatex Info: ... and expl3
+(biblatex)             2021-11-22 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3
+.sty
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
+e.sty
+Package: xparse 2021-11-12 L3 Experimental document command parser
+)
+Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
+)
+\openout3 = `main.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'main.bbl' not found.
+
+No file main.bbl.
+Package biblatex Info: Reference section=0 on input line 25.
+Package biblatex Info: Reference segment=0 on input line 25.
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(42.67912pt, 731.23584pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=731.23584pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-66.59087pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 20.74pt on input line 27.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 14.4pt on input line 27.
+LaTeX Font Info:    Trying to load font information for OT1+ntxtlf on input lin
+e 27.
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ot1ntxtlf.fd
+File: ot1ntxtlf.fd 2021/05/24 v1.0 font definition file for OT1/ntx/tlf
+)
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 14.4pt on input line 27.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 10.5pt on input line 27.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 7.9pt on input line 27.
+LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 
+27.
+
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxmia.fd
+File: untxmia.fd 2018/04/14 Fontinst v1.933 font definitions for U/ntxmia.
+)
+LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 
+27.
+
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsym.fd
+File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
+)
+LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 
+27.
+
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsyc.fd
+File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 27.
+
+
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 27.
+
+
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for TS1+ntxtlf on input lin
+e 27.
+
+(C:\Users\zepto\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ts1ntxtlf.fd
+File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
+)
+LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
+(Font)              scaled to size 14.4pt on input line 27.
+LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
+(Font)              scaled to size 10.5pt on input line 27.
+LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
+(Font)              scaled to size 7.9pt on input line 27.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 17.28pt on input line 27.
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 17.28pt on input line 27.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 12.0pt on input line 33.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 8.8pt on input line 33.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 6.6pt on input line 33.
+LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
+(Font)              scaled to size 12.0pt on input line 33.
+LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
+(Font)              scaled to size 8.8pt on input line 33.
+LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
+(Font)              scaled to size 6.6pt on input line 33.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 8.8pt on input line 33.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 6.6pt on input line 33.
+
+
+LaTeX Warning: Citation 'yixiang' on page 1 undefined on input line 33.
+
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 12.0pt on input line 33.
+
+LaTeX Warning: Citation 'walter' on page 1 undefined on input line 36.
+
+
+LaTeX Warning: Citation 'pike' on page 1 undefined on input line 36.
+
+
+LaTeX Warning: Citation 'forsea' on page 1 undefined on input line 36.
+
+
+LaTeX Warning: Citation 'walter' on page 1 undefined on input line 36.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
+
+ []
+
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 14.4pt on input line 41.
+
+LaTeX Warning: Citation 'election' on page 1 undefined on input line 42.
+
+[1
+
+{C:/Users/zepto/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+<complete thai analysis.png, id=63, 393.47pt x 262.9825pt>
+File: complete thai analysis.png Graphic file (type png)
+<use complete thai analysis.png>
+Package pdftex.def Info: complete thai analysis.png  used on input line 57.
+(pdftex.def)             Requested size: 157.38521pt x 105.19113pt.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 10.95pt on input line 58.
+<พลงประชารัฐ.png, id=65, 433.62pt x 289.08pt>
+File: พลงประชารัฐ.png Graphic file (type png)
+<use พลงประชารัฐ.png>
+Package pdftex.def Info: พลงประชารัฐ.png  used on input l
+ine 63.
+(pdftex.def)             Requested size: 173.44492pt x 115.62994pt.
+ [2 <./complete thai analysis.png> <./พลงประชารัฐ.png>]
+<p_value_less.png, id=77, 393.47pt x 280.04625pt>
+File: p_value_less.png Graphic file (type png)
+<use p_value_less.png>
+Package pdftex.def Info: p_value_less.png  used on input line 86.
+(pdftex.def)             Requested size: 157.38521pt x 112.0165pt.
+<p_value_more.png, id=78, 390.45876pt x 280.04625pt>
+File: p_value_more.png Graphic file (type png)
+<use p_value_more.png>
+Package pdftex.def Info: p_value_more.png  used on input line 92.
+(pdftex.def)             Requested size: 156.18073pt x 112.0165pt.
+
+
+LaTeX Warning: Citation 'alex' on page 3 undefined on input line 106.
+
+
+LaTeX Warning: Citation 'alex' on page 3 undefined on input line 111.
+
+
+LaTeX Warning: Citation 'alex' on page 3 undefined on input line 111.
+
+[3 <./p_value_less.png> <./p_value_more.png>]
+
+LaTeX Warning: Citation 'SCHATTE1998391' on page 4 undefined on input line 114.
+
+
+
+LaTeX Warning: Empty bibliography on input line 122.
+
+[4] (main.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: B1ECD03DBB8290E0A3423ED78781332F;1663.
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 22584 strings out of 478681
+ 386867 string characters out of 2846534
+ 1065040 words of memory out of 3000000
+ 40352 multiletter control sequences out of 15000+600000
+ 465980 words of font info for 119 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 69i,9n,117p,1238b,1133s stack positions out of 5000i,500n,10000p,200000b,80000s
+{C:/Users/zepto/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ot1-t
+lf.enc}{C:/Users/zepto/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-
+ec-tlf.enc}<C:/Users/zepto/AppData/Local/Programs/MiKTeX/fonts/type1/public/new
+tx/NewTXMI.pfb><C:/Users/zepto/AppData/Local/Programs/MiKTeX/fonts/type1/public
+/newtx/txexs.pfb><C:/Users/zepto/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/newtx/txmiaX.pfb><C:/Users/zepto/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/newtx/txsys.pfb><C:/Users/zepto/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/newtx/ztmb.pfb><C:/Users/zepto/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/newtx/ztmr.pfb>
+Output written on main.pdf (4 pages, 189314 bytes).
+PDF statistics:
+ 127 PDF objects out of 1000 (max. 8388607)
+ 21 named destinations out of 1000 (max. 500000)
+ 109 words of extra memory for PDF output out of 10000 (max. 10000000)
+
